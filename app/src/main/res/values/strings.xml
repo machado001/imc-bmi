@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="weight_text">weight (kg), ex: 74.00</string>
+    <string name="height_text">height (m), ex: 1.71</string>
+    <string name="button_calculate_text">Calculate</string>
+    <string name="user_imc_state_text">Your state is:\n %s</string>
+    <string name="user_imc_result_text">Your IMC result is:\n %f</string>
+    <string name="share_button_text">Share Your results!</string>
+    <string name="intent_send_result_text">With %1$s kilos and %2$s meters, my IMC is %3$s , i\'m %4$s!</string>
+</resources>
